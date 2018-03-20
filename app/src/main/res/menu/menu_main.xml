@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.codility.tabviewpager.MainActivity">
+    <item
+        android:id="@+id/menuAbout"
+        android:title="@string/about" />
+
+    <item
+        android:id="@+id/menuSettings"
+        android:title="@string/action_settings" />
+
+    <item
+        android:id="@+id/menuLogout"
+        android:title="@string/logout" />
+</menu>
